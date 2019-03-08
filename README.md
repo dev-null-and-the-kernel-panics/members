@@ -14,7 +14,7 @@
 
   - Name: On Lead Guitar
     member:
-      name: Mihhail.Shredder
+      name: Mihhail.The.Shredder
       shell: "{{ /bin/bash | default('powershell') }}"
       state: frenzied
       comment: |
