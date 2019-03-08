@@ -44,7 +44,7 @@
     member:
       name: Steve.AIXtreme
       shell: /usr/bin/ksh
-      state: present      
+      state: L337 Pro      
       comment: |
           Uses and endorses:
             Linux
