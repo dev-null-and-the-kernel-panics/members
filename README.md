@@ -35,7 +35,6 @@
             Puppet
             Ansible
             Freesco
-            CounterStrike
             Ibanez Guitars
             Dyslexia
             Attention Deficit Disorder
