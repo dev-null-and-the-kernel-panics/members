@@ -1,9 +1,7 @@
 # Members
 ```
----
-- members:
   - Name: On Vocals and Rhythm Guitar
-    user:
+    member:
       name: Matt.Kitch
       shell: /bin/bash
       state: present
@@ -15,7 +13,7 @@
           Fender Guitars       
 
   - Name: On Lead Guitar
-    user:
+    member:
       name: Mihhail.Shredder
       shell: "{{ /bin/bash | default('powershell') }}"
       state: frenzied
@@ -28,7 +26,7 @@
           Ibanez Guitars
 
   - Name: On Bass Guitar
-    user:
+    member:
       name: Belfast77
       shell: /bin/bash
       state: null
@@ -43,7 +41,7 @@
             Attention Deficit Disorder
 
   # Name: On Drums
-    user:
+    member:
       name: Steve.AIXtreme
       shell: /usr/bin/ksh
       state: present      
