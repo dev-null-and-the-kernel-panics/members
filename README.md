@@ -42,22 +42,23 @@
   # Name: Drums
     member:
       name: Steve.AIXtreme
-      shell: /usr/bin/ksh
+      shell: /usr/bin/ksh93
       state: L337_Pro      
       comment: |
           Uses and endorses:
             Linux
             AIX
+            AWS
             Ansible
             Python
             Perl
-            Pearl Drumms
-            Tama Drumms
-            DW Drums
-            Mapex Drumms
-            Sonor Drumms
+            No Pearl Drumms!
+            Tama Drums
+            Premier Drums
+            Hayman Drums
+            Staccatto Drums
             Gretsch Drumms
             Yamaha Drumms
-            Zildjian Cymbols
+            Zildjian Cymbals
             On and on and ....
 ```
