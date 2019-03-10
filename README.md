@@ -2,7 +2,7 @@
 ```
   - Name: On Vocals and Rhythm Guitar
     member:
-      name: Matt.Kitch
+      name: Neville.Dullard
       shell: /bin/bash
       state: present
       comment: |
