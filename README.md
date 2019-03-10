@@ -1,6 +1,6 @@
 # Members
 ```
-  - Name: On Vocals and Rhythm Guitar
+  - Name: Vocals and Rhythm Guitar
     member:
       name: Neville.Dullard
       shell: /bin/bash
@@ -12,7 +12,7 @@
           AIX
           Fender Guitars       
 
-  - Name: On Lead Guitar
+  - Name: Lead Guitar
     member:
       name: Mihhail.The.Shredder
       shell: "{{ /bin/bash | default('powershell') }}"
@@ -25,7 +25,7 @@
           Preacher Bench
           Ibanez Guitars
 
-  - Name: On Bass Guitar
+  - Name: Bass Guitar
     member:
       name: Belfast77
       shell: /bin/bash
@@ -39,7 +39,7 @@
             Dyslexia
             Attention Deficit Disorder
 
-  # Name: On Drums
+  # Name: Drums
     member:
       name: Steve.AIXtreme
       shell: /usr/bin/ksh
