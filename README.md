@@ -27,7 +27,7 @@
 
   - Name: Bass Guitar
     member:
-      name: Belfast77
+      name: Belfast.Punk
       shell: /bin/bash
       state: null
       comment: |
@@ -52,13 +52,13 @@
             Ansible
             Python
             Perl
-            No Pearl Drumms!
+            No Pearl Drums!
             Tama Drums
             Premier Drums
             Hayman Drums
             Staccatto Drums
-            Gretsch Drumms
-            Yamaha Drumms
+            Gretsch Drums
+            Yamaha Drums
             Zildjian Cymbals
             On and on and ....
 ```
