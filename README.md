@@ -1,5 +1,5 @@
 # Members
-```
+```yaml
   - Name: Vocals and Rhythm Guitar
     member:
       name: Neville.Dullard
@@ -39,7 +39,7 @@
             Dyslexia
             Attention Deficit Disorder
 
-  # Name: Drums
+  - Name: Drums
     member:
       name: Steve.AIXtreme
       shell: /usr/bin/ksh93
