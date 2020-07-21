@@ -31,7 +31,7 @@
       shell: /bin/bash
       state: null
       comment: |
-          Uses and endorses:
+            Uses and endorses:
             Puppet
             Ansible
             Freesco
@@ -45,7 +45,7 @@
       shell: /usr/bin/ksh93
       state: L337_Pro      
       comment: |
-          Uses and endorses:
+            Uses and endorses:
             Linux
             AIX
             AWS
